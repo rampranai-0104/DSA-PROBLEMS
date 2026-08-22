@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0389-find-the-difference) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [1720-decode-xored-array](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/1720-decode-xored-array) |
 ## Hash Table
