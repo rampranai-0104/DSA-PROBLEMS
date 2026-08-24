@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0389-find-the-difference) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
