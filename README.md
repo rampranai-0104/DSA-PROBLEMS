@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0190-reverse-bits) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0260-single-number-iii) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rampranai-0104/DSA-PROBLEMS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
